@@ -1,0 +1,18 @@
+{
+  "name": "Secure_Eye_Master",
+  "tagline": "Auditing smart contracts with trust and transparency",
+  "description": "Secure_Eye_Master is a smart contract auditing tool designed to automatically detect vulnerabilities and security risks in Solidity contracts. It analyzes code for common issues such as reentrancy, overflows, and access control flaws. The tool provides an easy-to-use interface for developers and integrates with GitHub for continuous auditing workflows. Built to enhance trust in decentralized applications, it ensures smart contracts are safe before deployment.",
+  "team": [
+    {
+      "name": "Payal Babar",
+      "email": "babarpayal953@gmail.com"
+    },
+    {
+      "name": "Nidhi Sinha",
+      "email": "nidhi24@example.com"
+    }
+  ],
+  "demo_url": "https://example.com/demo",  
+  "video_url": "https://youtube.com/watch?v=your-demo-video",  
+  "technologies": ["Solidity", "Hardhat", "JavaScript", "Mythril", "OpenZeppelin"]
+}
